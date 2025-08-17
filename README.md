@@ -1,8 +1,8 @@
- ## I help Industries solving problems with AI and Machine Learning ##
+ # I help Industries solving problems with AI and Machine Learning 
 
- # Machine Learning Specialist  | Professional AI Engineer |Certified Innovator | Building Smarter Systems
+ ## Machine Learning Specialist  | Professional AI Engineer |Certified Innovator | Building Smarter Systems ##
  
- # Certified by Stanford, Coursera, Google Cloud, IBM & Duke University 
+ ## Certified by Stanford, Coursera, Google Cloud, IBM & Duke University ##
  
  Real-World ML Projects | From NLP to Deep Learning & Cloud Deployment 
  
