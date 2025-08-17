@@ -4,9 +4,9 @@
  
  ## Certified by Stanford, Coursera, Google Cloud, IBM & Duke University ##
  
- Real-World ML Projects | From NLP to Deep Learning & Cloud Deployment 
+ Real-World ML Projects | From NLP to Deep Learning & Generative AI  
  
- Google Cloud Certified | TensorFlow | Python| Pytorch |Data Pipelines
+ LLMs| Lang-Chain| RAG| CNN | Scikit-Learn |TensorFlow | Python| Pytorch |Data Pipelines
  
  Passionate about AI that scales, learns, and transforms
 
